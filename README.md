@@ -2,6 +2,8 @@ This project is a template based on [Create React App](https://github.com/facebo
 
 Fixes some of the problems I have encountered using it, hope it will work for you...
 
+![](allgood-install.gif)
+
 ## Why?
 
 - It's been built to work on the latest stable Node (12) and Yarn (1.19.2) versions
